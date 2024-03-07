@@ -1,0 +1,11 @@
+// config dockerfile
+// config docker compose (mysql + volume , phpMyAdmin)
+
+// config prisma
+
+// xxxxx  config swagger
+
+//05032024
+// test npx generate on docker (remove-reset docker)
+// fix node cant run on docker (cause directory import)
+// done, change name (folder / package.json / dockerfile / docker-compose) then save as template on git

@@ -1,0 +1,9 @@
+db/data
+
+node_modules
+dist
+
+.env
+.env.local
+.env.develop
+.env.production
